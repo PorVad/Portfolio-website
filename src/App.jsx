@@ -59,7 +59,7 @@ export default function ResumeWebsite() {
 
               <div>
                 <p className="text-zinc-500 text-sm">Technologies</p>
-                <p>HTML5, CSS3, JavaScript, Git</p>
+                <p>HTML5, CSS3, JavaScript, Git, React</p>
               </div>
             </div>
           </div>
@@ -76,6 +76,7 @@ export default function ResumeWebsite() {
             "CSS3",
             "JavaScript",
             "Git/GitHub",
+            "React",
             "Responsive Design",
             "DOM Manipulation",
             "Teamwork",
